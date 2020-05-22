@@ -1,0 +1,1 @@
+LifeGameです。javaで書きました。
